@@ -5,3 +5,4 @@ def position_taken(board, index)
 end
 
 puts position_taken?(ttt_board, 0)
+puts position_taken?(ttt_board, 8)
